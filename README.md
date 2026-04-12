@@ -1,11 +1,9 @@
-## Hello there 👋
-
+### Hello there 👋
 
 # About Me
-- 👨‍💻 23 years old
-- 🔧 Mechatronics Engineer | Poznań University of Technology
-- 🤖 My current interests: Animatronics, AI Integration via APIs, Embedded Systems
-- 🔭 Recent project: Animatronic Time Management Assistant
-- 📧 Reach me via e-mail: baryczkowskijan@gmail.com
-- 🌲 Love exploring nature—from weekend hikes to mountain trips
-
+- 👨‍🎓 Mechatronics Engineer | Computer Science Student (Edge Computing)
+- 🎓 Currently authoring a scientific article based on my engineering thesis regarding an animatronic assistant for time management.
+- 🤖 Current interests: Animatronics, Embedded Systems, Real-Time OS.
+- 🔭 Recent project: Environmental Monitoring System (Zephyr RTOS).
+- 📧 Reach me via: baryczkowskijan@gmail.com
+- 🌲 Love exploring nature—from weekend hikes to mountain trips.
